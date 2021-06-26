@@ -1,3 +1,4 @@
+#!/bin/bash
 def main():
     print('Hello Lucas')
 
